@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Awais",
+        "account_no": 9574,
+        "account_balance": 4000.0,
+        "account_pin": "2222"
+    },
+    {
+        "id": 2,
+        "name": "Haroon",
+        "account_no": 6047,
+        "account_balance": 546500.0,
+        "account_pin": "2468"
+    },
+    {
+        "id": 3,
+        "name": "Awais",
+        "account_no": 8999,
+        "account_balance": 5000.0,
+        "account_pin": "3454"
+    }
+]
