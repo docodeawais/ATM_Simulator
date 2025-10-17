@@ -4,6 +4,17 @@ A simple **command-line ATM simulator** built in **Python**, demonstrating core 
 
 ---
 
+## 💳 ATM Simulator Demo
+
+<video src="https://raw.githubusercontent.com/docodeawais/ATM_Simulator/main/ATM_Simulator.webm"
+       controls
+       width="600">
+</video>
+
+🎥 [Click here if the video doesn’t load](https://raw.githubusercontent.com/docodeawais/ATM_Simulator/main/ATM_Simulator.webm)
+
+---
+
 ## 📋 Overview
 This project simulates a basic ATM system that allows users to:
 - Create a new account  
